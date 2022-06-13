@@ -1,4 +1,4 @@
-# Operating-Systems-Ex1
+# Basic-Shell
 
 Dvir Biton
 
